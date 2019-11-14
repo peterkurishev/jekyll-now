@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Curriculum vitae
+permalink: /cv/
 ---
 
 Peter A. Kurishev
