@@ -85,6 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-# theme: jekyll-theme-tactile
-
-remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+theme: jekyll-theme-tactile
