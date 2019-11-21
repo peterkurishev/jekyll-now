@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's start again
+title: Initial post
 ---
 
 This is the 5th or 6th start of the personal blog for me. There are a lot of
